@@ -18,7 +18,7 @@
   "dependencies": {
     "@devoxa/prisma-relay-cursor-connection": "^1.0.1",
     "@nexus/schema": "^0.14.0",
-    "apollo-server": "^2.16.1",
+    "apollo-server": "^2.25.3",
     "express-graphql": "^0.11.0",
     "graphql": "^14.5.8",
     "nexus-plugin-prisma": "^0.16.1"
